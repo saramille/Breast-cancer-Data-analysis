@@ -1,6 +1,6 @@
 # Breast-cancer-Data-analysis
 Breast cancer data analysis: collinearity and dimensional reduction
-Data source: Kaggle (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+* Data source: Kaggle (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 Attribute Information:
 1) ID number 2) Diagnosis (M = malignant, B = benign) 3-32)
 Ten real-valued features are computed for each cell nucleus:
